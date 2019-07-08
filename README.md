@@ -5,7 +5,7 @@
 一款可以运行于各平台上的编程代码管理器。
 
 使用语言：
-VFB/VB6/JAVA/Cplus/Object-c
+VB6/JAVA/Cplus/Object-c/Js 反正哪种能用用哪种
 
 开发顺序：
 PC
